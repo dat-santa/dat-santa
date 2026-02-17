@@ -1,6 +1,6 @@
 # Hi, I'm Dat 👋
 
-## 📚 About Me
+## ℹ️ About Me
 I'm a writer and self-published author with books available on Gumroad and Amazon Kindle.
 
 ## 🔭 Currently Working On
