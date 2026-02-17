@@ -4,9 +4,9 @@
 I'm a writer and self-published author with books available on Gumroad and Amazon Kindle.
 
 ## 🔭 Currently Working On
-- AI-powered SaaS applications
-- Cognitive Science research
-- Psychology integration with technology
+- AI-powered SaaS applications [https://usiwai.com](https://usiwai.com)
+- Cognitive Science research 
+- Psychology integration with technology [https://buihuudat.com](https://buihuudat.com)
 
 ## 🎯 Life Goals
 - 📖 Publish 100 books
