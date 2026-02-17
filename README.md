@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Dat 👋
 
-<!--
-**dat-santa/dat-santa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 About Me
+I'm a writer and self-published author with books available on Gumroad and Amazon Kindle.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- AI-powered SaaS applications
+- Cognitive Science research
+- Psychology integration with technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Life Goals
+- 📖 Publish 100 books
+- ✈️ Travel to 100 countries
+
+## 💼 Professional Background
+- 🎓 **Education**: Hanoi University of Science and Technology
+- 📡 **Previous**: 15 years in telecommunications (IP/MPLS, 3G/4G/5G network design) at Huawei Technologies (Malaysia)
+- 💻 **Current**: Full-stack developer specializing in Next.js and AI engineering
+
+## 🛠️ Tech Stack
+- **Frontend**: Next.js, React, TypeScript
+- **Backend**: Node.js, Supabase, Neon DB
+- **Infrastructure**: Docker, Ubuntu VPS, Better-auth
+- **AI/ML**: Building AI-powered SaaS solutions
+
+## 📫 Contact
+- Email: [contact@datsanta.com](mailto:contact@datsanta.com)
+- Website: [https://datsanta.com](https://datsanta.com)
