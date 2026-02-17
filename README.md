@@ -19,8 +19,9 @@ I'm a writer and self-published author with books available on Gumroad and Amazo
 
 ## 🛠️ Tech Stack
 - **Frontend**: Next.js, React, TypeScript
-- **Backend**: Node.js, Supabase, Neon DB
-- **Infrastructure**: Docker, Ubuntu VPS, Better-auth
+- **Backend**: Node.js, Supabase, Neon, Better-auth
+- **Infrastructure**: Server, Docker, Nginx ...
+- **DevOps**: GitHub Actions, CI/CD automation
 - **AI/ML**: Building AI-powered SaaS solutions
 
 ## 📫 Contact
