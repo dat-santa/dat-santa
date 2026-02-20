@@ -4,6 +4,7 @@
 I'm a writer and self-published author with books available on Gumroad and Amazon Kindle.
 
 ## 🔭 Currently Working On
+- Edu AI SaaS: [https://hiai.vn](https://hiai.vn)
 - AI-powered SaaS applications: [https://usiwai.com](https://usiwai.com)
 - Books, Courses LMS:  [https://datsanta.com](https://datsanta.com)
 - Psychology: [https://buihuudat.com](https://buihuudat.com)
