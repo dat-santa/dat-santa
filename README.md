@@ -7,7 +7,6 @@ I'm a writer and self-published author with books available on Gumroad and Amazo
 - AI Platform SaaS: [https://hiai.vn](https://hiai.vn)
 - Agentic AI for Education: [https://usiwai.com](https://usiwai.com)
 - Books, Courses LMS:  [https://datsanta.com](https://datsanta.com)
-- Psychology: [https://buihuudat.com](https://buihuudat.com)
 
 ## 🎯 Life Goals
 - 📖 Publish 100 books
